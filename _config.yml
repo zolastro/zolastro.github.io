@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "David Ponce"
-description              : "Researcher in Speech and Natural Language Technologies"
+description              : "NLP Researcher"
 repository               : "zolastro/zolastro.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "David Ponce"
   avatar           : "images/600_adponce.jpg"
-  bio              : "Researcher in Speech and Natural Language Technologies"
+  bio              : "Researcher in Speech and Natural Language Technologies @ Vicomtech"
   location         : "Donostia/San Sebastian, Spain"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "zolastro"
   google_plus      :
   keybase          :
   instagram        :
