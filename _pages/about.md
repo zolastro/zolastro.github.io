@@ -54,7 +54,7 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
 
 ---
 
-# 🛠 Skills
+# 🛠️ Skills
 
 ### **Research Skills**
 - Large Language Models (e.g., GPT, NLLB, MarianNMT)
