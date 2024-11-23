@@ -22,7 +22,7 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
 ---
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Presented **"Automating Easy Read Text Segmentation"** at EMNLP 2024 Findings ([Read Paper](https://aclanthology.org/2024.findings-emnlp.694)).  
+- *2024.11*: &nbsp;🎉🎉 Published **"Automating Easy Read Text Segmentation"** at EMNLP 2024 Findings ([Read Paper](https://aclanthology.org/2024.findings-emnlp.694)).  
 - *2024.08*: &nbsp;🎉🎉 Published **"Split and Rephrase with Large Language Models"** at ACL 2024 ([Read Paper](https://aclanthology.org/2024.acl-long.622)).  
 - *2023.07*: &nbsp;🎉🎉 Published **"Unsupervised Subtitle Segmentation with Masked Language Models"** at ACL 2023 ([Read Paper](https://aclanthology.org/2023.acl-short.67)).
 
