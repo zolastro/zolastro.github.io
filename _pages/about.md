@@ -81,50 +81,41 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
 - **Split and Rephrase with Large Language Models**  
   David Ponce, Thierry Etchegoyhen, Jesús Calleja, Harritxu Gete  
   *ACL 2024* ([Paper](https://aclanthology.org/2024.acl-long.622))  
-  - Explores the task of splitting complex sentences into simpler ones using large language models.  
 
 - **Vicomtech@WMT 2024: Shared Task on Translation into Low-Resource Languages of Spain**  
   David Ponce, Harritxu Gete, Thierry Etchegoyhen  
   *WMT 2024* ([Paper](https://aclanthology.org/2024.wmt-1.91))  
-  - Focuses on translating underrepresented languages like Aragonese, Asturian, and Aranese.
 
 - **Automating Easy Read Text Segmentation**  
   Jesús Calleja, Thierry Etchegoyhen, Antonio David Ponce Martínez  
   *EMNLP 2024 Findings* ([Paper](https://aclanthology.org/2024.findings-emnlp.694))  
-  - Develops novel methods for text segmentation tailored to Easy Read content.
 
 ### 2023  
 - **Unsupervised Subtitle Segmentation with Masked Language Models**  
   David Ponce, Thierry Etchegoyhen, Víctor Ruiz  
   *ACL 2023* ([Paper](https://aclanthology.org/2023.acl-short.67))  
-  - Proposes a novel unsupervised approach for subtitle segmentation across languages.  
 
 - **Learning from Past Mistakes: Quality Estimation from Monolingual Corpora and Machine Translation Learning Stages**  
   Thierry Etchegoyhen, David Ponce  
   *MT Summit XIX* ([Paper](https://aclanthology.org/2023.mtsummit-research.8))  
-  - Presents methods for generating synthetic Quality Estimation (QE) data for neural machine translation.
 
 - **IRAZ: Easy-to-Read Content Generation via Automated Text Simplification**  
   Thierry Etchegoyhen, Jesús Calleja, David Ponce  
   *SEPLN 2023* ([Paper](https://ceur-ws.org/Vol-3729/d19_rev.pdf))  
-  - Explores text simplification for Easy-to-Read content.
 
 ### 2022  
 - **TANDO: A Corpus for Document-level Machine Translation**  
   Harritxu Gete, Thierry Etchegoyhen, David Ponce, et al.  
   *LREC 2022* ([Paper](https://aclanthology.org/2022.lrec-1.324))  
-  - Introduces a document-level corpus for Basque-Spanish translation.
 
 ### 2021  
 - **Online Learning over Time in Adaptive Neural Machine Translation**  
   Thierry Etchegoyhen, David Ponce, Harritxu Gete, Víctor Ruiz  
   *RANLP 2021* ([Paper](https://aclanthology.org/2021.ranlp-1.47))  
-  - Evaluates online learning for dynamic translation improvements.
 
 - **ITAI: Adaptive Neural Machine Translation Platform**  
   Thierry Etchegoyhen, David Ponce, Harritxu Gete, Víctor Ruiz  
-  *SEPLN 2021*  
-  - Designs a continuous learning system for neural machine translation.
+  *SEPLN 2021*  ([Paper] (https://ceur-ws.org/Vol-2968/paper13.pdf)]
 
 ---
 
