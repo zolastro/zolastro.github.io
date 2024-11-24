@@ -57,15 +57,15 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
 # 🛠️ Skills
 
 ### **Research Skills**
-- Large Language Models (e.g., GPT, NLLB, MarianNMT)
+- Large Language Models Optimization
 - Neural Machine Translation (NMT)
-- Text Simplification and Segmentation
+- Text Simplification
 - Machine Translation Quality Estimation
 - Green AI methodologies for sustainable model training
 
 ### **Technical Skills**
-- **Programming Languages:** Python, Golang, C++, TypeScript, SQL, LaTeX
-- **Frameworks & Tools:** PyTorch, llama.cpp, LangChain, MarianNMT, COMET
+- **Programming Languages:** Python, Golang, C++, TypeScript, HTML, CSS, SQL 
+- **Frameworks & Tools:** PyTorch, llama.cpp, LlamaIndex, MarianNMT, COMET, FastAPI, Angular
 - **Specialized Tools:** Energy usage profiling tools (e.g., CodeCarbon), lightweight deployment frameworks
 
 ### **Languages**
