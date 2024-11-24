@@ -139,9 +139,7 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
   Research and development of adaptive AI technologies and MLOps applied to Basque language technologies, focusing on industrial integration, continuous deployment of neural models, and exploring methodologies to optimize maintenance and adaptation.
 
 - **IACODE**  
-  Development of standardized code generation:  
-  - Generate standardized code from existing code following MISRA technical programming guidelines.  
-  - Automate the process using generative AI models specialized in code generation.
+  Development of standardized code generation from existing code following MISRA technical programming guidelines, automating the process using generative AI models specialized in code generation.
 
 ### **2022**
 - **LIDO**  
