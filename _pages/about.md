@@ -1,14 +1,11 @@
 ---
-
 permalink: /
 title: "David Ponce - NLP Researcher"
 excerpt: "Research in Natural Language Processing, Sustainability, and Green AI"
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
