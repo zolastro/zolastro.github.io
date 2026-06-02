@@ -22,7 +22,7 @@ I work in the **Speech and Natural Language Technologies** department at Vicomte
 
 # 🔥 News
 
-* *2026.05*:  🎉🎉 Published **"Judging Instruction Responses in a Low-Resource Language: A Case Study on Basque"** at LREC-COLING 2026 ([Read Paper](https://lrec.elra.info/lrec2026-main-019)).
+* *2026.05*:  🎉🎉 Published **"Judging Instruction Responses in a Low-Resource Language: A Case Study on Basque"** at LREC 2026 ([Read Paper](https://lrec.elra.info/lrec2026-main-019)).
 * *2025.11*:  🎉🎉 Published **"Vicomtech@WMT 2025: Evolutionary Model Compression for Machine Translation"** at WMT 2025.
 * *2025.09*:  🎉🎉 Published **"Text Adaptation to Plain Language and Easy Read via Automatic Post-Editing Cycles"**.
 
