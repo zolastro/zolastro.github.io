@@ -1,0 +1,215 @@
+{
+  "container_type": "Author",
+  "source": "serpapi-google-scholar-author",
+  "scholar_id": "pFnvtlgAAAAJ",
+  "name": "David Ponce",
+  "affiliation": "Vicomtech; University of the Basque Country UPV/EHU",
+  "email_domain": "Verified email at vicomtech.org",
+  "interests": [
+    "NMT",
+    "NLP"
+  ],
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pFnvtlgAAAAJ&citpid=1",
+  "citedby": 48,
+  "citedby5y": 48,
+  "hindex": 4,
+  "hindex5y": 4,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2023": 2,
+    "2024": 10,
+    "2025": 26,
+    "2026": 10
+  },
+  "publications": {
+    "pFnvtlgAAAAJ:4JMBOYKVnBMC": {
+      "author_pub_id": "pFnvtlgAAAAJ:4JMBOYKVnBMC",
+      "bib": {
+        "title": "Split and Rephrase with Large Language Models",
+        "author": "D Ponce, T Etchegoyhen, JJC Perez, H Gete",
+        "citation": "Proceedings of the 62nd Annual Meeting of the Association for Computational …, 2024",
+        "pub_year": "2024"
+      },
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7520058769540128632"
+    },
+    "pFnvtlgAAAAJ:TQgYirikUcIC": {
+      "author_pub_id": "pFnvtlgAAAAJ:TQgYirikUcIC",
+      "bib": {
+        "title": "Automating Easy Read Text Segmentation",
+        "author": "J Calleja, T Etchegoyhen, D Ponce",
+        "citation": "Findings of the Association for Computational Linguistics: EMNLP 2024, 11876 …, 2024",
+        "pub_year": "2024"
+      },
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=961521112129262271,6649511352731306451"
+    },
+    "pFnvtlgAAAAJ:d1gkVwhDpl0C": {
+      "author_pub_id": "pFnvtlgAAAAJ:d1gkVwhDpl0C",
+      "bib": {
+        "title": "TANDO: A corpus for document-level machine translation",
+        "author": "H Gete, T Etchegoyhen, D Ponce, G Labaka, N Aranberri, A Corral, ...",
+        "citation": "Proceedings of the thirteenth language resources and evaluation conference …, 2022",
+        "pub_year": "2022"
+      },
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11622527189541669019"
+    },
+    "pFnvtlgAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "pFnvtlgAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "Unsupervised subtitle segmentation with masked language models",
+        "author": "D Ponce, T Etchegoyhen, V Ruiz",
+        "citation": "Proceedings of the 61st Annual Meeting of the Association for Computational …, 2023",
+        "pub_year": "2023"
+      },
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15037569657945461539"
+    },
+    "pFnvtlgAAAAJ:mVmsd5A6BfQC": {
+      "author_pub_id": "pFnvtlgAAAAJ:mVmsd5A6BfQC",
+      "bib": {
+        "title": "TANDO+: corpus and baselines for document-level machine translation in Basque–Spanish and Basque–French",
+        "author": "H Gete, T Etchegoyhen, G Labaka, A Corral, X Saralegi, N Aranberri, ...",
+        "citation": "Language Resources and Evaluation 59 (4), 3699-3739, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13850792312742447012"
+    },
+    "pFnvtlgAAAAJ:ns9cj8rnVeAC": {
+      "author_pub_id": "pFnvtlgAAAAJ:ns9cj8rnVeAC",
+      "bib": {
+        "title": "Gelaco: An evolutionary approach to layer compression",
+        "author": "D Ponce, T Etchegoyhen, J Del Ser",
+        "citation": "arXiv preprint arXiv:2507.10059, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5939936016668095115"
+    },
+    "pFnvtlgAAAAJ:GnPB-g6toBAC": {
+      "author_pub_id": "pFnvtlgAAAAJ:GnPB-g6toBAC",
+      "bib": {
+        "title": "In-context learning vs. instruction tuning: The case of small and multilingual language models",
+        "author": "D Ponce, T Etchegoyhen",
+        "citation": "arXiv preprint arXiv:2503.01611, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14222050772453210977"
+    },
+    "pFnvtlgAAAAJ:TFP_iSt0sucC": {
+      "author_pub_id": "pFnvtlgAAAAJ:TFP_iSt0sucC",
+      "bib": {
+        "title": "Vicomtech@ WMT 2024: Shared Task on Translation into Low-Resource Languages of Spain",
+        "author": "D Ponce, H Gete, T Etchegoyhen",
+        "citation": "Proceedings of the Ninth Conference on Machine Translation, 934-942, 2024",
+        "pub_year": "2024"
+      },
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8783456444907586798"
+    },
+    "pFnvtlgAAAAJ:zYLM7Y9cAGgC": {
+      "author_pub_id": "pFnvtlgAAAAJ:zYLM7Y9cAGgC",
+      "bib": {
+        "title": "Learning from past mistakes: Quality estimation from monolingual corpora and machine translation learning stages",
+        "author": "T Etchegoyhen, D Ponce",
+        "citation": "Proceedings of Machine Translation Summit XIX, Vol. 1: Research Track, 84-98, 2023",
+        "pub_year": "2023"
+      },
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726153224094132578"
+    },
+    "pFnvtlgAAAAJ:cFHS6HbyZ2cC": {
+      "author_pub_id": "pFnvtlgAAAAJ:cFHS6HbyZ2cC",
+      "bib": {
+        "title": "Judging Instruction Responses in a Low-Resource Language: A Case Study on Basque",
+        "author": "D Ponce, H Gete, T Etchegoyhen, I Zubiaga, A Soroa",
+        "citation": "Proceedings of the Fifteenth Language Resources and Evaluation Conference …, 2026",
+        "pub_year": "2026"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:lSLTfruPkqcC": {
+      "author_pub_id": "pFnvtlgAAAAJ:lSLTfruPkqcC",
+      "bib": {
+        "title": "Vicomtech@ WMT 2025: Evolutionary Model Compression for Machine Translation",
+        "author": "D Ponce, H Gete, T Etchegoyhen",
+        "citation": "Proceedings of the Tenth Conference on Machine Translation, 1011-1021, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:RYcK_YlVTxYC": {
+      "author_pub_id": "pFnvtlgAAAAJ:RYcK_YlVTxYC",
+      "bib": {
+        "title": "Text Adaptation to Plain Language and Easy Read via Automatic Post-Editing Cycles",
+        "author": "J Calleja, D Ponce, T Etchegoyhen",
+        "citation": "arXiv preprint arXiv:2509.11991, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:SeFeTyx0c_EC": {
+      "author_pub_id": "pFnvtlgAAAAJ:SeFeTyx0c_EC",
+      "bib": {
+        "title": "Optimization, Adaptation and Applications of Large Language Models.",
+        "author": "D Ponce",
+        "citation": "PLN-DS@ SEPLN, 94-103, 2025",
+        "pub_year": "2025"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:e5wmG9Sq2KIC": {
+      "author_pub_id": "pFnvtlgAAAAJ:e5wmG9Sq2KIC",
+      "bib": {
+        "title": "STREAMS: Live Streaming and Micro-batching with Automated Multilingual Services.",
+        "author": "A Álvarez, T Etchegoyhen, J Arellano, VR Gómez, H Arzelus, D Ponce, ...",
+        "citation": "SEPLN (Projects and Demonstrations), 148-153, 2024",
+        "pub_year": "2024"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:IjCSPb-OGe4C": {
+      "author_pub_id": "pFnvtlgAAAAJ:IjCSPb-OGe4C",
+      "bib": {
+        "title": "IRAZ: Easy-to-Read Content Generation via Automated Text Simplification.",
+        "author": "T Etchegoyhen, J Calleja-Perez, D Ponce",
+        "citation": "SEPLN (Projects and Demonstrations), 60-65, 2023",
+        "pub_year": "2023"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:u-x6o8ySG0sC": {
+      "author_pub_id": "pFnvtlgAAAAJ:u-x6o8ySG0sC",
+      "bib": {
+        "title": "Online Learning over Time in Adaptive Neural Machine Translation",
+        "author": "T Etchegoyhen, D Ponce, H Gete, V Ruiz",
+        "citation": "Proceedings of the International Conference on Recent Advances in Natural …, 2021",
+        "pub_year": "2021"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    },
+    "pFnvtlgAAAAJ:u5HHmVD_uO8C": {
+      "author_pub_id": "pFnvtlgAAAAJ:u5HHmVD_uO8C",
+      "bib": {
+        "title": "ITAI: Adaptive Neural Machine Translation Platform.",
+        "author": "T Etchegoyhen, D Ponce, HG Ugarte, VR Gómez",
+        "citation": "SEPLN (Projects and Demonstrations), 49-52, 2021",
+        "pub_year": "2021"
+      },
+      "num_citations": 0,
+      "citedby_url": ""
+    }
+  },
+  "updated": "2026-09-05T08:00:41.290627+00:00"
+}
